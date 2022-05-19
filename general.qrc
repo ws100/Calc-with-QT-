@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/计算器.png</file>
+        <file>res/向上箭头粗小.png</file>
+    </qresource>
+</RCC>
